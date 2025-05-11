@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+gunicorn
+transformers
+torch
+pytesseract
+pdf2image
+pillow
+nltk
+spacy
+pandas
+llama-cpp-python
+PyMuPDF
+python-multipart
+logging_loki
+prometheus-client
+prometheus-fastapi-instrumentator
